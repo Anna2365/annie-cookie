@@ -1,6 +1,6 @@
 # Annie Cookie
 
-使用 ASP.NET MVC 與 ASP.NET Core MVC 搭配 Web API 製作的線上手工餅乾購物網站，功能包含會員註冊登入、商品瀏覽與加入購物車、訂單建立及管理，以及後台商品與圖表管理等功能。
+使用 ASP.NET MVC 與 ASP.NET Core MVC 搭配 Web API 製作的手工餅乾購物網站，功能包含會員註冊登入、商品瀏覽與加入購物車、訂單建立及管理，以及後台商品與各類資訊管理、使用者權限管理等功能。
 
 
 
@@ -48,7 +48,7 @@
 - 前台開發：ASP.NET MVC (.NET Framework)
 - 後台開發：ASP.NET Core MVC + Web API
 - 資料庫：MS SQL
-- 資料存取：Entity Framework、Dapper
+- 資料存取：Entity Framework+ LINQ、Entity Framework Core+ LINQ、Dapper、Dapper
 - 網頁設計：HTML / CSS / JavaScript / Bootstrap / Vue
 - 圖表分析：Chart.js
 - 版本控制：GitHub
